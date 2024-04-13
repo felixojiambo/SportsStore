@@ -17,3 +17,15 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\ojiamboloc\Desktop\NET\SportsSln\SportsStore
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ojiamboloc/Desktop/NET/SportsSln/SportsStore/Views/ _ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcIF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ojiamboloc/Desktop/NET/SportsSln/SportsStore/Views/Shared/ _Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXCBfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ojiamboloc/Desktop/NET/SportsSln/SportsStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
