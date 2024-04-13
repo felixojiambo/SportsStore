@@ -1,3 +1,4 @@
+using SportsStore.Models;
 namespace SportsStore.Models
 {
     public class EFStoreRepository : IStoreRepository
