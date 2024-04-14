@@ -132,3 +132,4 @@ C:\Users\ojiamboloc\Desktop\NET\SportsSln\SportsStore\obj\Debug\net8.0\refint\Sp
 C:\Users\ojiamboloc\Desktop\NET\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.pdb
 C:\Users\ojiamboloc\Desktop\NET\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.genruntimeconfig.cache
 C:\Users\ojiamboloc\Desktop\NET\SportsSln\SportsStore\obj\Debug\net8.0\ref\SportsStore.dll
+C:\Users\ojiamboloc\Desktop\NET\SportsSln\SportsStore\obj\Debug\net8.0\SportsStore.sourcelink.json
